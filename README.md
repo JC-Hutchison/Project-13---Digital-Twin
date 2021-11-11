@@ -10,3 +10,6 @@ There will be a UI Portion of the project that will display the Paper Dryness an
 There will be a UI Portion of the project that allows Admins to add data to retrain the models.
 
 Ultimately, the model will be in IBM cloud, but we should be able to have everything we need in GitHub.
+
+
+Files in branches can be remerged into the main branch
