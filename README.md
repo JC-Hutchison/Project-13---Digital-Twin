@@ -2,7 +2,7 @@
 This Repository will be for the NCSU ECE 484/485 Senior Design Project 13 - Digital Twin for Energy Efficiency in Smart Manufacturing.
 
 The goal of this project is to develop ML models for the drying section of the Paper Machine at the Pulp and Paper Lab at NC State.
-The students working on the project are JC Hutchison, Luke Johnson, Emma Thorsell, Abiha Khanam, and Ethan Rhodes.
+The students working on the project are JC Hutchison, Luke Johnson, Emma Thorssell, Abiha Khanam, and Ethan Rhodes.
 
 The first model will predict how dry the paper will be.
 The Second model will predict how much energy is used.
